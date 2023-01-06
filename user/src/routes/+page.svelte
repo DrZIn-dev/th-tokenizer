@@ -65,7 +65,7 @@
 	</div>
 	<div class="divider">Result</div>
 	<div class="flex gap-4">
-		<div class="stats stats-vertical shadow">
+		<div class="stats stats-vertical shadow min-w-fit">
 			<div class="stat">
 				<div class="stat-title">Tokens</div>
 				<div class="stat-value">{form?.tokens.length || 0}</div>
